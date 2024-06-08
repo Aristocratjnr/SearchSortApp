@@ -1,4 +1,5 @@
 import java.util.*;
+// app to demonstrate search and sort algorithms
 
 public class SearchSortApp {
 
