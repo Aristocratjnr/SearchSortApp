@@ -1,0 +1,15 @@
+Enter the number of elements in the list:
+5
+Enter the elements:
+34
+4
+5
+6
+7
+Choose algorithm type: 1 for Search, 2 for Sort
+2
+Choose sorting algorithm: 1 for Bubble Sort, 2 for Quick Sort
+2
+Sorted list: [4, 5, 6, 7, 34]
+Running time (nanoseconds): 38600
+Time complexity: O(n log n)
