@@ -1,6 +1,7 @@
 import java.util.*;
 // app to demonstrate search and sort algorithms
 // search algorithms: linear search, binary search
+// sort algorithms: bubble sort, quick sort
 
 public class SearchSortApp {
 
